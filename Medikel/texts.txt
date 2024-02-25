@@ -1,0 +1,189 @@
+========== LINKS ==========
+
+<link
+href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+/>
+
+<link
+rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+/>
+
+========== HOME ==========
+
+========== HEADER ==========
+Home - About - Services - Blog - Contact
+
+Book Appointment
+
+========== Main ==========
+Your good health can cheer you up
+
+For far away, behind the word mountains, far from the countries vakalia and consonania, there live live the blind texts.
+
+========== BOOK TOP ==========
+Book an Appointment
+
+Send message on email
+
+Book Now
+
+Location
+Elk Grove Village, IL
+
+Personas
+3 adults, 2 child
+
+Appointment date
+25 Nov, 2024
+
+========== BOOK BOTTOM ==========
+Latest Equipent
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nisi in veniam cumque delectus atque.
+
+Specialist Doctirs
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nisi in veniam cumque delectus atque.
+
+Covid-19 testing
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nisi in veniam cumque delectus atque.
+
+========== ABOUT ==========
+about us
+
+We Provide Best in Class Medical Services
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod impedit ex, veniam voluptate eaque tenetur ratione repellat exercitationem omnis quas!
+
+Gastric Fluid Analysis
+Medical procedure used to examine the secretions and other liquid substances occurring in the stomach.
+
+Kidney Function Test
+Urine or blood tests that evaluate how well your kidneys are working. Most of these tests measure filtration rate.
+
+Richard Muldoone
+Co-Funder
+
+========== SERVICES ==========
+        // Head //
+OUR SERVICES
+Explore Our Caring & Premium Medical Services
+
+        // Cards //
+lung diseases - heart diseases - orthopaedic - Dental Care - sports injury - General Surgery
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.
+
+========== FACTS ==========
+we are take care
+Healing with Online Appointment Doctor Advanced Treatment
+
+Find a Doctor - Book Appointment
+
+200+
+Doctors
+
+3980+
+Happy Patients
+
+1000+
+Medical Beds
+
+100+
+Awards
+
+========== DOCTORS ==========
+        // Head //
+OUR TEAM MEMBERS
+Meet Our Expert Doctors
+
+        // Cards //
+Dr.Antonio Stevenson
+Neurologist
+
+Dr.Amelia Edwards
+Orthopadics
+
+Dr.Francisco Ingram
+Medicine
+
+Dr. Hunter Farley
+Dentist
+
+========== CONTACT ==========
+MAKE AN APPOINTMENT
+Meet With Our Experts
+We will send you a confirmation within 24 hours. Emergency? Call 1-2554-2356-33
+
+========== REVIEW ==========
+TESTIMONIALS
+Patients Reviews
+
+“Dr Dang was extremely welcoming, knowledgeable and friendly.Historically, drugs were discovered identifying the active ingredient from traditional remedies or by serendipitous discovery. Later chemical libraries synthetic small molecules.”
+
+Mildred Payne
+Digital Marketer
+
+========== BLOG ==========
+        // Head //
+BLOG & NEWS
+read our health news
+
+        // Cards //
+Nov, 20, 2024 - Health Care
+
+1. Simple Ways to Plan, Enjoy and Stick to a Healthy Diet
+2. Tips For Overcoming High Fever In Children
+3. Multi super doctors and kind behavior
+4. Get the Home care and nursing service
+5. For Treatment: Research and Analysis
+
+We are provide excellent medical advices for your good health and we…
+
+        // Absolute Blog //
+NEWSLETTER SUBSCRIBE
+get more update to subscribe us
+
+========== FOOTER ==========
+        // Footer Top //
+Ipsum dolor sit amet, consecterelit, sed do eiusmod tempor incididunt.Ipsum dolor sit amet consecterelit, sed eiusmod tempor incididunt.
+
++1-2345-3455-33
+contact@medikel.com
+1810 Kings WayKing Street,5th Avenue, New York
+
+quick link
+
+About Us
+Services
+Our Pricing
+Our Gallery
+Appointment
+Contact Us
+
+our services
+
+Lung Diseases
+Heart Diseases
+Orthopaedic
+Dental Care
+Sport Injury
+General Surgery
+
+opening hours
+
+08:00 AM - 05:00PM
+10:00 AM - 08:00PM
+
+Mon - Tues
+Tues- Wed
+Wed- Tues
+Thurs- Fri
+Fri- Sat
+Sat-Sun
+
+        // Footer Bottom //
+Copyright ©2024 TurkistanTeam. All Rights Reserved
+
+Terms & Condition
+Privacy Policy
